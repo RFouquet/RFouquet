@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RFouquet
 - 👀 I’m interested in open access, publications, arts, culture, languages, KINDNESS
-- 💞️ I’m looking to collaborate on the software my institution hosts
+- 💞️ I’m looking to collaborate on the software my organization hosts
 - 😄 Pronouns: any
 - ⚡ Fun fact: my first book as a child was an art book 
 
